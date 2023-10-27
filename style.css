@@ -1,0 +1,28 @@
+/* Style for the AnchorPane */
+#bk {
+    -fx-background-color: #222; /* Dark background color */
+    -fx-text-fill: #fff; /* Text color */
+}
+
+/* Style for TableView and its columns */
+#cell {
+    -fx-control-inner-background: #333; /* Background color for TableView */
+    -fx-text-fill: #fff; /* Text color inside the TableView */
+}
+
+/* Style for TextFields */
+.text-field {
+    -fx-control-inner-background: #444; /* Background color for TextFields */
+    -fx-text-fill: #fff; /* Text color inside the TextFields */
+}
+
+/* Style for Labels */
+.label {
+    -fx-text-fill: #fff; /* Text color for Labels */
+}
+
+/* Style for Buttons */
+.button {
+    -fx-background-color: #444; /* Button background color */
+    -fx-text-fill: #fff; /* Text color on buttons */
+}
